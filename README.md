@@ -9,9 +9,6 @@ A C++ project that simulates a flight booking management system. It allows users
 - Console-based interface with error handling.
 
 ## Screenshots
-![Booking Interface](screenshots/booking_interface.png)
-![Flight Search](screenshots/flight_search.png)
-
 ![Booking Interface](https://github.com/pratikdeoke/Flight-Booking-Management-System/blob/main/screenshots/Menu.png)
 
 ![Register Flight](https://github.com/pratikdeoke/Flight-Booking-Management-System/blob/main/screenshots/register_flight_a.png)
